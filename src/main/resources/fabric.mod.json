@@ -1,25 +1,26 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "minerobot_jeff",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Minerobot",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
     "Me!"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/e8035669/minerobot",
+    "sources": "https://github.com/e8035669/minerobot"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/minerobot_jeff/icon.png",
 
   "environment": "*",
   "entrypoints": {
-    "main": [
-      "net.fabricmc.example.ExampleMod"
+    "main": [],
+    "client": [
+      "net.jeffzhang.minerobot.ClientMod"
     ]
   },
   "mixins": [

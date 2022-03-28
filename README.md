@@ -1,9 +1,9 @@
-# Fabric Example Mod
+# minerobot
 
-## Setup
+最終目標：做一隻可以自動釣魚的module
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+### Task List
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+- [ ] 自動尋路模組
+- [ ] 自動吃東西
+- [ ] 自動拿劍打怪模組
